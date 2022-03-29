@@ -1,8 +1,5 @@
 from jovian.pythondsa import evaluate_test_cases
 
-#1,2,3,4,5,6,7 target 6
-
-#test
 
 def find_first_position(cards,query):
     low,high = 0,len(cards)-1
