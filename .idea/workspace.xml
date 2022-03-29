@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee4e21f3-1646-439a-8ae6-7425c47b2e06" name="Changes" comment="Algorithms" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="bronik7 &lt;b_z94102@yahoo.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="23GQsDNaLvH74n4I7bn9lGFGkpC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\Learning\Coding_Exercises" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.CountingSort">
+    <configuration name="Binary_search_multiple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Coding_Exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Coding_Exercises/Binary_search_multiple.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CountingSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Coding_Exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Coding_Exercises/CountingSort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="binary_tree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Coding_Exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Coding_Exercises/binary_tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hash_table_exercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Coding_Exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Coding_Exercises/hash_table_exercise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="internet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/internet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.CountingSort" />
+        <item itemvalue="Python.Binary_search_multiple" />
+        <item itemvalue="Python.internet" />
+        <item itemvalue="Python.binary_tree" />
+        <item itemvalue="Python.hash_table_exercise" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee4e21f3-1646-439a-8ae6-7425c47b2e06" name="Changes" comment="" />
+      <created>1641358147769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641358147769</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Algorithms">
+      <created>1648513541392</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648513541392</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Algorithms">
+      <created>1648513583314</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1648513583314</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Algorithms">
+      <created>1648513688423</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648513688423</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Algorithms" />
+    <option name="LAST_COMMIT_MESSAGE" value="Algorithms" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Coding_Exercises/BinarySearch.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Coding_Exercises/BinarySearch.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Coding_Exercises/Binary_search_multiple.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Coding_Exercises/Binary_search_multiple.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Coding_Exercises/LinkedList.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Coding_Exercises/LinkedList.py</url>
+          <line>137</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Coding_Exercises/LinkedList.py</url>
+          <line>116</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Coding_Exercises/CountingSort.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Coding_Exercises/scraping_project.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Coding_Exercises/scraping_project.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Coding_Exercises/hash_table_exercise.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Coding_Exercises/hash_table_exercise.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Coding_Exercises/binary_tree.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Coding_Exercises/binary_tree.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Coding_Exercises/Binary_search_multiple.py</url>
+          <line>96</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Coding_Exercises/Binary_search_multiple.py</url>
+          <line>116</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="arr" />
+        <watch expression="l" />
+        <watch expression="cur" />
+        <watch expression="self.head" language="Python" />
+        <watch expression="current_node !=None" />
+        <watch expression="self.data[&quot;quote&quot;]" />
+        <watch expression="self.data[key_sum]" />
+        <watch expression="k" />
+        <watch expression=" k" />
+      </configuration>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/Coding_Exercises/binary_tree.py" line="19">
+        <watch expression="str(start.value) + &quot; - &quot;" />
+      </inline-watch>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/Coding_Exercises/LinkedList.py" line="116">
+        <watch expression="current.next == None" />
+      </inline-watch>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/Coding_Exercises/LinkedList.py" line="134">
+        <watch expression="current.data" />
+      </inline-watch>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/Coding_Exercises/LinkedList.py" line="134">
+        <watch expression="value" />
+      </inline-watch>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/Coding_Exercises/LinkedList.py" line="18">
+        <watch expression="current is None" />
+      </inline-watch>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/Coding_Exercises/LinkedList.py" line="132">
+        <watch expression="head != None" />
+      </inline-watch>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/Coding_Exercises/hash_table_exercise.py" line="20">
+        <watch expression="ord(i)" />
+      </inline-watch>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/Coding_Exercises/hash_table_exercise.py" line="35">
+        <watch expression="key" />
+      </inline-watch>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/Coding_Exercises/hash_table_exercise.py" line="29">
+        <watch expression="len(v)" />
+      </inline-watch>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/Coding_Exercises/hash_table_exercise.py" line="35">
+        <watch expression="value" />
+      </inline-watch>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/Coding_Exercises/hash_table_exercise.py" line="30">
+        <watch expression="v[0]" />
+      </inline-watch>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/Coding_Exercises/Binary_search_multiple.py" line="96">
+        <watch expression="random_value" />
+      </inline-watch>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/Coding_Exercises/Binary_search_multiple.py" line="64">
+        <watch expression="nums[mid - 1] " />
+      </inline-watch>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/Coding_Exercises/Binary_search_multiple.py" line="118">
+        <watch expression="len(totals)-1" />
+      </inline-watch>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/Coding_Exercises/Binary_search_multiple.py" line="100">
+        <watch expression="vals[random_value]" />
+      </inline-watch>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/Coding_Exercises/Binary_search_multiple.py" line="118">
+        <watch expression="totals[len(totals)-1]" />
+      </inline-watch>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/Coding_Exercises/Binary_search_multiple.py" line="98">
+        <watch expression="vals[i]" />
+      </inline-watch>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/Coding_Exercises/Binary_search_multiple.py" line="118">
+        <watch expression="right" />
+      </inline-watch>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/Coding_Exercises/Binary_search_multiple.py" line="117">
+        <watch expression="left" />
+      </inline-watch>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/Coding_Exercises/CountingSort.py" line="9">
+        <watch expression="arr[i]" />
+      </inline-watch>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/Coding_Exercises/CountingSort.py" line="8">
+        <watch expression="c" />
+      </inline-watch>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/Coding_Exercises/CountingSort.py" line="9">
+        <watch expression="c &lt; arr[i]" />
+      </inline-watch>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/Coding_Exercises/scraping_project.py" line="38">
+        <watch expression="selection[&quot;author&quot;]" />
+      </inline-watch>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/Coding_Exercises/scraping_project.py" line="38">
+        <watch expression="user_input" />
+      </inline-watch>
+    </watches-manager>
+  </component>
+</project>
